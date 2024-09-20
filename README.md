@@ -1,4 +1,4 @@
-# Olá, seja bem vindo (a) ao meu perfil!
+# Bem vindos ao meu perfil divos 😘
 * Meu nome é Alyssa Guntlisbergen.
 * Estou estudando na Alura.
 * Estou me desenvolvendo na linguagem JavaScript.
